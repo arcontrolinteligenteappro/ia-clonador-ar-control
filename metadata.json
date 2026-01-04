@@ -1,0 +1,8 @@
+{
+  "name": "CloneAI - Professional Web Cloner",
+  "description": "A high-end web application that leverages Gemini 3 Pro to analyze, describe, and clone website designs into clean React and Tailwind CSS components.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
